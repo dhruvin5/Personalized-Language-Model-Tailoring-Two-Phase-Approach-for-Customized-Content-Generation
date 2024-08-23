@@ -2,7 +2,7 @@
 
 ### Two-Phase Approach for Customized Content Generation
 
-This repository contains the implementation and experiments related to the paper "Personalized Language Model Tailoring: Two-Phase Approach for Customized Content Generation," authored by Samveg Shah and Dhruvin Gandhi. The project focuses on improving the personalization of Language Models (LLMs) for generating customized content such as news headlines and scholarly titles.
+This repository contains the implementation and experiments related to the paper "Personalized Language Model Tailoring: Two-Phase Approach for Customized Content Generation,". The project focuses on improving the personalization of Language Models (LLMs) for generating customized content such as news headlines and scholarly titles.
 
 ## Abstract
 
