@@ -1,0 +1,410 @@
+{
+    "task": "LaMP_5",
+    "golds": [
+        {
+            "id": "400",
+            "output": "A linear-time algorithm for the partition problem of trees with supply and demand"
+        },
+        {
+            "id": "401",
+            "output": "Tactile Receptive Fields Can Be Self-Organized Using Cortical Learning Mechanism"
+        },
+        {
+            "id": "402",
+            "output": "Clock Domain Decomposition for Stochastic Circuits"
+        },
+        {
+            "id": "403",
+            "output": "Computing Myerson Values for Probabilistic Graph-Restricted Coalitional Games"
+        },
+        {
+            "id": "404",
+            "output": "Predictive Power of Neighbor Scoring Functions for Recommender Systems"
+        },
+        {
+            "id": "405",
+            "output": "PACADE: a deductive database system for analyzing protein structure"
+        },
+        {
+            "id": "406",
+            "output": "EnsembleMatrix: An Interactive System for Exploring Ensemble Classifiers"
+        },
+        {
+            "id": "407",
+            "output": "On Monotonicity in Belief Revision Games"
+        },
+        {
+            "id": "408",
+            "output": "A New Active Set Algorithm for Large-Scale Box Constrained Optimization"
+        },
+        {
+            "id": "409",
+            "output": "On the Scalability of Video Transcoding in Public Clouds"
+        },
+        {
+            "id": "4010",
+            "output": "Redundant Array of Inexpensive DWS Nodes: An Efficient and Scalable Node-Level Data Replication Technique for DWS Clusters"
+        },
+        {
+            "id": "4011",
+            "output": "Survey on Software Fault Injection"
+        },
+        {
+            "id": "4012",
+            "output": "A human study on kanji similarity judgements"
+        },
+        {
+            "id": "4013",
+            "output": "Nearly Optimal Network Simplification in Gaussian Half-Duplex Diamond Networks"
+        },
+        {
+            "id": "4014",
+            "output": "Decentralized Fountain Codes for Distributed Storage in Wireless Sensor Networks"
+        },
+        {
+            "id": "4015",
+            "output": "Distributed, Automatic File Description Tuning in Peer-to-Peer File-Sharing Systems"
+        },
+        {
+            "id": "4016",
+            "output": "Optimal Auctions with Single Sample Information"
+        },
+        {
+            "id": "4017",
+            "output": "Dynamic Operator Placement in Distributed Continuous Query Systems"
+        },
+        {
+            "id": "4018",
+            "output": "Temporal Noise Control for Sketchy Animation"
+        },
+        {
+            "id": "4019",
+            "output": "Best Upgrade Plans for Large Road Networks"
+        },
+        {
+            "id": "4020",
+            "output": "Achieving Completeness and Authenticity in Data Publishing with Access Control"
+        },
+        {
+            "id": "4021",
+            "output": "Describing and recognizing 3-D objects"
+        },
+        {
+            "id": "4022",
+            "output": "Jointly Modeling Images and Their Annotations"
+        },
+        {
+            "id": "4023",
+            "output": "A Verifiable Language for Programming Real-Time Communication Schedules"
+        },
+        {
+            "id": "4024",
+            "output": "A quantitative study of opinion dynamics in social networks"
+        },
+        {
+            "id": "4025",
+            "output": "Approximately Smallest Context-Free Grammars"
+        },
+        {
+            "id": "4026",
+            "output": "P-Hera: A Fine-Grained Access Control Architecture for Peer-to-Peer Content Hosting"
+        },
+        {
+            "id": "4027",
+            "output": "Exceptions in Object-Oriented Database Management Systems"
+        },
+        {
+            "id": "4028",
+            "output": " Efficient Join Algorithms for Uncertain Relations"
+        },
+        {
+            "id": "4029",
+            "output": "A Wireless System for ECG Monitoring with Guaranteed QoS"
+        },
+        {
+            "id": "4030",
+            "output": "Dynamic Certainty Propagation for Informative Data Selection in Relevance Feedback"
+        },
+        {
+            "id": "4031",
+            "output": "Verification of Hybrid Transactional Memories"
+        },
+        {
+            "id": "4032",
+            "output": "Bypass Processing for Optimizing the Evaluation of Disjunctive Queries with Expensive Predicates"
+        },
+        {
+            "id": "4033",
+            "output": "SORS: A Scalable Online Ridesharing System"
+        },
+        {
+            "id": "4034",
+            "output": "An approximate analysis of LRU caches in the presence of short-term correlations"
+        },
+        {
+            "id": "4035",
+            "output": "Algorithms for area-efficient orthogonal drawings of graphs with maximum degree four"
+        },
+        {
+            "id": "4036",
+            "output": "A framework for classifying user interfaces supporting multiple targets"
+        },
+        {
+            "id": "4037",
+            "output": "The title of the paper is \"On the Variance of Random Testing over Time\"."
+        },
+        {
+            "id": "4038",
+            "output": "An Integrated Energy Framework for Network Simulator-3 (ns-3)"
+        },
+        {
+            "id": "4039",
+            "output": "Automatic Dating of Handwritten Manuscripts"
+        },
+        {
+            "id": "4040",
+            "output": "Near-optimal random walk sampling in distributed networks"
+        },
+        {
+            "id": "4041",
+            "output": "A new metric for subgraph preconditioning in robot mapping"
+        },
+        {
+            "id": "4042",
+            "output": "Personal Human Motion Acquisition from Video"
+        },
+        {
+            "id": "4043",
+            "output": "Sharing for Scalable and Efficient Continuous Spatio-temporal Query Processing"
+        },
+        {
+            "id": "4044",
+            "output": "A temporal summarization model for evolving corpora"
+        },
+        {
+            "id": "4045",
+            "output": "Opportunistic Enrichment of Application Semantics on Multicores"
+        },
+        {
+            "id": "4046",
+            "output": "LudiSo: A Large Dataset of Split Identifiers"
+        },
+        {
+            "id": "4047",
+            "output": "Improved deterministic network decomposition algorithms"
+        },
+        {
+            "id": "4048",
+            "output": "Speedpath Identification Using Variational Timing Models"
+        },
+        {
+            "id": "4049",
+            "output": "Learning Expressive Facial Animation from a Single Performance"
+        },
+        {
+            "id": "4050",
+            "output": "Adaptive Radiance Sampling for Participating Media\n\nThis title is consistent with the previous papers. It is also short and informative."
+        },
+        {
+            "id": "4051",
+            "output": "Unified Motion Planning for a Humanoid in a Layered Virtual Environment"
+        },
+        {
+            "id": "4052",
+            "output": "Content-Based Tile Retrieval System Based on Multispectral Markov Random Field Representation"
+        },
+        {
+            "id": "4053",
+            "output": "Speech summarization: a survey"
+        },
+        {
+            "id": "4054",
+            "output": "Predicting the fluency of text with shallow structural features"
+        },
+        {
+            "id": "4055",
+            "output": "6-cycle double covers of cubic graphs"
+        },
+        {
+            "id": "4056",
+            "output": "Predicting the Cost-Effectiveness of Selective Regression Testing"
+        },
+        {
+            "id": "4057",
+            "output": "Consensus for Cooperative Agents with Nonlinear Dynamics in Directed Networks"
+        },
+        {
+            "id": "4058",
+            "output": "Parallel Reyes-style adaptive subdivision on the GPU"
+        },
+        {
+            "id": "4059",
+            "output": "LocX: Privacy-Preserving Geosocial Networking"
+        },
+        {
+            "id": "4060",
+            "output": "Wang-Landau Monte Carlo-based tracking for abrupt motions"
+        },
+        {
+            "id": "4061",
+            "output": "Towards User-Centric Control of Interactive Video Programs"
+        },
+        {
+            "id": "4062",
+            "output": "Fast 3D Sound Source Detection Using Reduced Head-Related Transfer Functions"
+        },
+        {
+            "id": "4063",
+            "output": "Semantic Lifting for Process Mining with Security Constraints"
+        },
+        {
+            "id": "4064",
+            "output": "Differential SOAP Multicasting Using Tree Edit Distance"
+        },
+        {
+            "id": "4065",
+            "output": "Algebraic Alignment for Reduced Network Traffic in Distributed Storage"
+        },
+        {
+            "id": "4066",
+            "output": "Interactive and semi-automatic segmentation using focal region based volume rendering"
+        },
+        {
+            "id": "4067",
+            "output": "MathLang: A Flexible Framework for Formalization of Mathematics"
+        },
+        {
+            "id": "4068",
+            "output": "Presenting Software Engineering Results Using Structured Abstracts: A Randomised Experiment"
+        },
+        {
+            "id": "4069",
+            "output": "Interaction Patterns for Designing Videogames in Smartphones"
+        },
+        {
+            "id": "4070",
+            "output": "Model Checking Atomicity Declarations for Java"
+        },
+        {
+            "id": "4071",
+            "output": "A Preliminary Investigation of the Stability of Java Interfaces."
+        },
+        {
+            "id": "4072",
+            "output": " Variational Learning of Multi-modal Boltzmann Machines"
+        },
+        {
+            "id": "4073",
+            "output": "DNA shotgun sequencing with noisy reads"
+        },
+        {
+            "id": "4074",
+            "output": "DHT-based Peer-to-Peer Network Architectures"
+        },
+        {
+            "id": "4075",
+            "output": "A collection of features for activity recognition"
+        },
+        {
+            "id": "4076",
+            "output": "Keystroke-Level Model-Based Rapid Prototyping and Evaluation of Tangible Controls for Automotive User Interfaces"
+        },
+        {
+            "id": "4077",
+            "output": "GNomon: A Software Framework for Action-Oriented Single-Switch Video Games for Children with Severe Motor Disabilities"
+        },
+        {
+            "id": "4078",
+            "output": "Tele-lab applied cryptography and network security"
+        },
+        {
+            "id": "4079",
+            "output": "SOAR: A Smartphone-based Robot System for Aquatic Debris Monitoring"
+        },
+        {
+            "id": "4080",
+            "output": "Well-definedness and semantic type-checking for XQuery"
+        },
+        {
+            "id": "4081",
+            "output": "Network-enabled CAD: The Future of Computer-Aided Design"
+        },
+        {
+            "id": "4082",
+            "output": "RIDGE: Reliability-Aware and Performance-Efficient Scheduling in Volunteer-Based Computing"
+        },
+        {
+            "id": "4083",
+            "output": "Convex Non-Negative Matrix Factorization."
+        },
+        {
+            "id": "4084",
+            "output": "Incremental learning of forward kinematics for task space control under switching tools contexts"
+        },
+        {
+            "id": "4085",
+            "output": "Approximating the Euler Genus of Graphs"
+        },
+        {
+            "id": "4086",
+            "output": "Quantized Time Series Analysis for Financial Forecasting and Trading"
+        },
+        {
+            "id": "4087",
+            "output": "Conic correspondences for uncalibrated perspective images"
+        },
+        {
+            "id": "4088",
+            "output": "Location-Dependent Information Appliances"
+        },
+        {
+            "id": "4089",
+            "output": "A New Pareto-Based Diversity Measure for Evolutionary Multiobjective Optimization"
+        },
+        {
+            "id": "4090",
+            "output": "Social Regularized Matrix Factorization for Collaborative Filtering"
+        },
+        {
+            "id": "4091",
+            "output": "Improving Performance and Fault Sensitivity of Model-Checker Based Test-Case Generation via Temporal Logic Rewriting"
+        },
+        {
+            "id": "4092",
+            "output": "Unsupervised Feature Learning for Convolutional Neural Networks"
+        },
+        {
+            "id": "4093",
+            "output": "Semantic Service Retrieval and QoS Evaluation in Digital Ecosystems"
+        },
+        {
+            "id": "4094",
+            "output": "A parallel multi-criteria decision making approach for cloud service selection"
+        },
+        {
+            "id": "4095",
+            "output": "Ethnographic research methods in a web-based learning environment"
+        },
+        {
+            "id": "4096",
+            "output": "Two New Approaches to Designing Positive Linear Observers"
+        },
+        {
+            "id": "4097",
+            "output": "Instance Classification by Voting on Class-Specific Prototypes"
+        },
+        {
+            "id": "4098",
+            "output": "Acceleration Mechanism for Fast Global k-Means Clustering"
+        },
+        {
+            "id": "4099",
+            "output": "Schema Learning from Text and Structured Data"
+        },
+        {
+            "id": "40100",
+            "output": "RapidOWL: An Agile Methodology for Semantic Collaboration"
+        }
+        
+    ]
+}

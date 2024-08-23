@@ -1,0 +1,409 @@
+{
+    "task": "LaMP_4",
+    "golds": [
+        {
+            "id": "300",
+            "output": "Borrowers Who Took Advantage of the Housing Bubble Are Now Facing Financial Challenges"
+        },
+        {
+            "id": "301",
+            "output": "The Six Best Steps for Selling Your Home and Buying Another"
+        },
+        {
+            "id": "302",
+            "output": "Tontine"
+        },
+        {
+            "id": "303",
+            "output": "10 International National Parks That Need No Instagram Filters"
+        },
+        {
+            "id": "304",
+            "output": "10 Hotels With Infinity Pools You'll Want to Visit"
+        },
+        {
+            "id": "305",
+            "output": "The World's Most Scenic Coastal Drives: Your Picks"
+        },
+        {
+            "id": "306",
+            "output": "Russia's \"Seven Wonders\" Include the \"Blue Eye of Siberia\""
+        },
+        {
+            "id": "307",
+            "output": "Conde Nast Traveler Readers' Choice Awards: The Best Islands in the World"
+        },
+        {
+            "id": "308",
+            "output": "10 Best Ski Resorts in the World"
+        },
+        {
+            "id": "309",
+            "output": "2013 Gold List: The Best Hotels in the World"
+        },
+        {
+            "id": "3010",
+            "output": "2018 World's Best Hotels: The 154 Best Places To Stay"
+        },
+        {
+            "id": "3011",
+            "output": "Oregon's Haystack Rock: The Goonies Rock"
+        },
+        {
+            "id": "3012",
+            "output": "20 Best Island Beaches in the World"
+        },
+        {
+            "id": "3013",
+            "output": "**Smoking ban leaves cigarette smokers out in the cold**"
+        },
+        {
+            "id": "3014",
+            "output": "Frozen Treats Around The World"
+        },
+        {
+            "id": "3015",
+            "output": "What Are Pastry Chefs' Favorite Desserts?"
+        },
+        {
+            "id": "3016",
+            "output": "10 Lesser-Known Places That Are Worth a Visit"
+        },
+        {
+            "id": "3017",
+            "output": "14 Rooftop Bars With Unbeatable Views (PHOTOS)"
+        },
+        {
+            "id": "3018",
+            "output": "4 Yoga Retreats to Help You Find Your Zen"
+        },
+        {
+            "id": "3019",
+            "output": "The Ultimate Carry-On Packing Guide"
+        },
+        {
+            "id": "3020",
+            "output": "10 Hikes That Will Make You Feel Like You're In Heaven"
+        },
+        {
+            "id": "3021",
+            "output": "Airbnb: Unexpected Ways People Use the Service"
+        },
+        {
+            "id": "3022",
+            "output": "These Hotels Let You Live With Wild Animals"
+        },
+        {
+            "id": "3023",
+            "output": "44 UNESCO World Heritage Sites Are in Danger"
+        },
+        {
+            "id": "3024",
+            "output": "The 10 Best Places to Shop on Vacation"
+        },
+        {
+            "id": "3025",
+            "output": "Sochi Olympic Vintage Travel Posters"
+        },
+        {
+            "id": "3026",
+            "output": "The 20 Most Luxurious Cabins in the United States"
+        },
+        {
+            "id": "3027",
+            "output": "10 Hottest New Bars in Miami"
+        },
+        {
+            "id": "3028",
+            "output": "10 Fascinating Homes of Famous Authors"
+        },
+        {
+            "id": "3029",
+            "output": "10 State Capitals Worth A Visit"
+        },
+        {
+            "id": "3030",
+            "output": "10 Most Beautiful Spa Hotels In Natural Surroundings"
+        },
+        {
+            "id": "3031",
+            "output": "The Most Expensive Suites In Las Vegas"
+        },
+        {
+            "id": "3032",
+            "output": "Around the World in 8 Bathrooms"
+        },
+        {
+            "id": "3033",
+            "output": "Midwest beer scene is back"
+        },
+        {
+            "id": "3034",
+            "output": "A Drive Through the Wild Western Borderlands of Texas"
+        },
+        {
+            "id": "3035",
+            "output": "3 Epic Road Trips That Take You Through U.S. National Parks"
+        },
+        {
+            "id": "3036",
+            "output": "10 Hotels That Take You Back to the Sea"
+        },
+        {
+            "id": "3037",
+            "output": "3 Minutes to Pack My Life"
+        },
+        {
+            "id": "3038",
+            "output": "8 Things You Need to Know Before Moving to the Philippines"
+        },
+        {
+            "id": "3039",
+            "output": "Fulfilling Our Calling and Mission"
+        },
+        {
+            "id": "3040",
+            "output": "How Leaders Can Help Their People Adjust to Change"
+        },
+        {
+            "id": "3041",
+            "output": "**Proposal Planner Shares Her Experience Planning a Proposal for a Gay Couple**"
+        },
+        {
+            "id": "3042",
+            "output": "**Travel Blog California Contest Winner Wins Dream Trip to Europe!**"
+        },
+        {
+            "id": "3043",
+            "output": "What is a Stock?"
+        },
+        {
+            "id": "3044",
+            "output": "Why You Need a Financial Advisor"
+        },
+        {
+            "id": "3045",
+            "output": "How I Learned to Stop Worrying and Love the Curve Balls"
+        },
+        {
+            "id": "3046",
+            "output": "The Jerusalem Attack: Let's Talk Truth"
+        },
+        {
+            "id": "3047",
+            "output": "30 Things to Be Thankful For After a Divorce"
+        },
+        {
+            "id": "3048",
+            "output": "Divorce Rate Spikes Among \"A Certain Age\" Group"
+        },
+        {
+            "id": "3049",
+            "output": "3 Ways to Start Over After Divorce"
+        },
+        {
+            "id": "3050",
+            "output": "My Starter Marriage Shaped Me Into a Better Wife"
+        },
+        {
+            "id": "3051",
+            "output": "They Wrote The Headline:Begging My Kids For Help"
+        },
+        {
+            "id": "3052",
+            "output": "The Take Home Folder"
+        },
+        {
+            "id": "3053",
+            "output": "The Fears Of Raising A Special Needs Child"
+        },
+        {
+            "id": "3054",
+            "output": "7 Things I Know For Sure About Raising Children"
+        },
+        {
+            "id": "3055",
+            "output": "Colonic Cleansing: How to Do It Right"
+        },
+        {
+            "id": "3056",
+            "output": "3 Myths About Your Brain That Are Holding You Back"
+        },
+        {
+            "id": "3057",
+            "output": "Yoga Behind Bars: Teaching Mindfulness in a Juvenile Detention Facility"
+        },
+        {
+            "id": "3058",
+            "output": "The Case Against Trick-or-Treating"
+        },
+        {
+            "id": "3059",
+            "output": "Twerking as a Teaching Tool"
+        },
+        {
+            "id": "3060",
+            "output": "5 Things I Wish I Knew Before Getting Divorced"
+        },
+        {
+            "id": "3061",
+            "output": "**Why You Should Stop Trying to \"Catch\" a Man**"
+        },
+        {
+            "id": "3062",
+            "output": "How to Survive Kid-Sickness"
+        },
+        {
+            "id": "3063",
+            "output": "Justice Clothing Store To Offer \"Divorced Mom\" Clothing Line"
+        },
+        {
+            "id": "3064",
+            "output": "The Empathy Gap: Why I Can't Watch \"13 Reasons Why\" Without Thinking About My Own Kid"
+        },
+        {
+            "id": "3065",
+            "output": "Mother-Daughter Relationships"
+        },
+        {
+            "id": "3066",
+            "output": "Broken Hearts Are Alive"
+        },
+        {
+            "id": "3067",
+            "output": "The Heart of Your Personal Transformation: Let Go of Your Reasons Why It's Not Possible"
+        },
+        {
+            "id": "3068",
+            "output": "3 Paths to Instant Well-Being"
+        },
+        {
+            "id": "3069",
+            "output": "Living Life on Fast Forward"
+        },
+        {
+            "id": "3070",
+            "output": "3, and 4 in 2015 6 Instant Ways to Feel Good"
+        },
+        {
+            "id": "3071",
+            "output": "Sean Hayes ' Who Do You Think You Are? ' Journey Takes Him to Ireland"
+        },
+        {
+            "id": "3072",
+            "output": "Headline: American Idol: What They Wore, 4/11/12 (Top 8)"
+        },
+        {
+            "id": "3073",
+            "output": "Stylists Talk Dressing Phillip Phillips"
+        },
+        {
+            "id": "3074",
+            "output": "9 Day Trips From Phoenix (PHOTOS)"
+        },
+        {
+            "id": "3075",
+            "output": "11 of the Best New Hotel Restaurants in the U.S."
+        },
+        {
+            "id": "3076",
+            "output": "10 Iconic Cities to Visit This Summer"
+        },
+        {
+            "id": "3077",
+            "output": "4 Day Houston Itinerary: Space City and Beyond"
+        },
+        {
+            "id": "3078",
+            "output": "5 Days in Florence: A Cultural Traveler's Guide"
+        },
+        {
+            "id": "3079",
+            "output": "Cancun: Hotels For Every Type of Traveler"
+        },
+        {
+            "id": "3080",
+            "output": " The headline for the article \"Are you traveling with the guys and looking for some female company?\" should be:\n\n\"The Best Places to Find Single Ladies When Traveling\""
+        },
+        {
+            "id": "3081",
+            "output": "Europe's Most Beautiful Cities: Stockholm vs. Lisbon"
+        },
+        {
+            "id": "3082",
+            "output": "12 Spa Treatments That Are Too Bizarre For Words"
+        },
+        {
+            "id": "3083",
+            "output": "11 Hotels That Will Make You Feel Like a Kid Again"
+        },
+        {
+            "id": "3084",
+            "output": " Couples Getaways: 10 Awesome Places To Go Without Your S.O."
+        },
+        {
+            "id": "3085",
+            "output": "Rock 'n' Roll Hotels for Music Lovers"
+        },
+        {
+            "id": "3086",
+            "output": "The East: 14 Places to Explore the Best of America's Eastern Region"
+        },
+        {
+            "id": "3087",
+            "output": "5 Great St. Patrick's Day Recipes To Warm Up With"
+        },
+        {
+            "id": "3088",
+            "output": "Exposing Motor Inn, A Hotel (PHOTOS)"
+        },
+        {
+            "id": "3089",
+            "output": "7 Champagnes That Will Make You Feel Like You're On Top Of The World"
+        },
+        {
+            "id": "3090",
+            "output": "5 Relaxing Spa Resorts in South Carolina"
+        },
+        {
+            "id": "3091", 
+            "output": "The Celebrity Hotel Scandals Of 2012"
+        }, 
+        {
+            "id": "3092", 
+            "output": "Mindblowing Adults Retreats"
+        }, 
+        {
+            "id": "3093", 
+            "output": "Best Urban Rooftop Pools"
+        }, 
+        {
+            "id": "3094", 
+            "output": "Road Trips From Philadelphia"
+        }, 
+        {
+            "id": "3095", 
+            "output": "How to Transform Your Sanctuary for Summer"
+        }, 
+        {
+            "id": "3096", 
+            "output": "Trending Hotel Bars Across the U.S. (PHOTOS)"
+        },
+        {
+            "id": "3097", 
+            "output": "These Hotels are Not Mainstream"
+        }, 
+        {
+            "id": "3098", 
+            "output": "What To Do And Where To Stay at Whistler (PHOTOS)"
+        }, 
+        {
+            "id": "3099", 
+            "output": " What to Do and Where to Stay  at Stockholm(PHOTOS)"
+        }, 
+        {
+            "id": "30100", 
+            "output": "Best Disney Resort to Visit"
+        }
+    ]
+}
